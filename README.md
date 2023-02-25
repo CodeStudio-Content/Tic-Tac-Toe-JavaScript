@@ -1,5 +1,12 @@
 <h1 align="center">Tic-Tac-Toe build using JS</h1>
 
+<div align="center">
+     
+<img src="https://user-images.githubusercontent.com/77020164/221343343-66112812-6734-41a7-97a1-a24991c33814.gif" width="700" height="300" />
+
+</div>
+
+
 ## About The Project
 
 This is a Tic-Tac-Toe game built using Javascript. It is a two player game. The game is built using the factory function and module pattern.
@@ -10,8 +17,8 @@ To get a local copy up and running follow these simple example steps.
 
 ### Installation
 
-1. Clone the repo
-
+1. Clone the repo `https://github.com/CodeStudio-Content/Tic-Tac-Toe-JavaScript.git` 
+2. `cd Tic-Tac-Toe-JavaScript`
 
 ## Usage
 
@@ -34,11 +41,11 @@ To get a local copy up and running follow these simple example steps.
 
 ## Files
 
-- index.html:
+- `index.html` :
     * This is the main file that contains the html code for the game.
-- style.css:
+- `style.css` :
     * This file contains the styling for the game.
-- game.js:
+- `game.js` :
     * This file contains the logic for the game.
 
 
