@@ -11,6 +11,12 @@
 
 This is a Tic-Tac-Toe game built using Javascript. It is a two player game. The game is built using the factory function and module pattern.
 
+## Blog
+
+Check out our project blog post for more information on the development process and our thoughts on the Tic Tac Toe Game project:
+
+* [Tic Tac Toe Game Using JS](https://www.codingninjas.com/codestudio/library/tic-tac-toe-game-using-js).
+
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
