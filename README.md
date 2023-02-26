@@ -9,7 +9,7 @@
 
 ## About The Project
 
-This is a Tic-Tac-Toe game built using Javascript. It is a two player game. The game is built using the factory function and module pattern.
+Tic Tac Toe is a simple game that is played by two players. The game is played on a 3x3 grid. The players take turns placing their symbol (either "X" or "O") in an empty cell. The first player to get three of their symbols in a row (horizontally, vertically, or diagonally) wins the game. If all cells are filled and no one has won, the game is tied.
 
 ## Blog
 
